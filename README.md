@@ -75,7 +75,7 @@
         </section>
         <section id="contact" class="section">
             <h2>Contacto</h2>
-            <p>Puedes contactarme a través de mi correo electrónico: <a href="mailto:jonathan@example.com">jonathan@example.com</a></p>
+            <p>Puedes contactarme a través de mi correo electrónico: <a href="mailto:jonathan172j@.gmailcom">jonathan@example.com</a></p>
         </section>
     </div>
     <footer>
